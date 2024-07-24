@@ -1,0 +1,48 @@
+"Graduation Year
+
+
+  Student
+
+
+  Dissertation
+
+
+  Advisor
+
+
+  Committee Members";Graduation Year;Student;Dissertation;Advisor;Committee Members
+2023;Michael Feldman;Principal Component Analysis Under Extreme Aspect Ratios;Donoho;Johnstone, Montanari;Kevin Xinkai Guo
+Three Essays in Causal Inference;Rothenhaeusler;Owen, Romano;2023;Estimation and Testing Methods for Causal Inference with Interference;Imbens (Econ) / Ugander (MSE)
+Owen;2023;Theodor Jakub Misiakiewicz;Montanari;Donoho, Johnstone;2023
+Samyak Rajanala;On Some Topics in Statistical Learning: Cluster-Aware Lasso & Others;Hastie, Palacios;2023;Souvik Ray;Stability of Solutions of Random Optimization Problems Under Small Perturbations
+Chatterjee;2023;Benjamin Seiler;Applications of Cooperative Game Theory to Interpretable Machine Learning;Owen;Palacios, Taylor
+Marius Aurel Tirlea;Permutation-Based Inference in Time Series Analysis;Romano;Duchi, Owen;2023;Causal Inference with Non-standard Experimental Designs
+Wager (GSB);Hastie, Siegmund;2023;Yuchen Wu;Montanari;Johnstone, Schramm
+2023;Hui Xu;Inference for Prediction Error Beyond the IID Assumption;Hastie, Owen;2023;Zhen Zhu
+Change-point Detection in Mean or Variance or Both;Siegmund;2022;Sohom Bhattacharya;Some applications of graph limits in probability and statistics;Chatterjee
+Montanari, Dembo;Sky Cao;Some probabilistic aspects of Yang-Mills;Chatterjee;Diaconis, Dembo;2022
+Confident and reliable statistical predictions in changing environments;Duchi;Candes, Liang (CS);2022;Zijun Gao;Hastie
+Tibshirani, Wager;2022;Swarnadip Ghosh;Scalable Inference for Crossed Random Effects Models;Hastie, Linderman, Athey (GSB);2022
+Suyash Gupta;Reliability and stability in statistical and machine learning problems;Duchi;2022;Nikolaos Ignatiadis;Nonparametric perspectives on empirical Bayes
+Wager (GSB);Candes, Tibshirani;Ismael Lemhadri;A Neural Network with Feature Sparsity;Tibshirani;Duchi, Hastie
+2022;Causal and Selective Inference in Complex Statistical Models;Candes/Wager (GSB);Hastie;2022;Damian Pavlyshyn
+Johnstone;Owen, Dembo;2022;Jaime Roquero Gimenez;Topics in multiple hypothesis testing and robustification of estimators through causal inference methods;Candes, Owen
+2022;Youngtak Sohn;Phase Transitions of Disordered Systems and High Dimensional Inference;Dembo;2022;Elena Tuzhilina
+Advances in multivariate statistics and its applications;Hastie;Tibshirani, Segal (UCSF);Qian Zhao;Applied Statistical Methods for High-Dimensional Generalized Linear Models;Candes
+Montanari, Taylor;2022;Mallows permutation model: Sampling algorithms and probabilistic properties;Diaconis;Dembo, Siegmund;2021
+Michael Celentano;Montanari;Candes, Donoho;2021;Nima Hamidi;Minimax Regret Bounds for Stochastic Linear Bandit Algorithms
+Lai, Candes;2021;Zhimei Ren;Model-Free Methods for Multiple Testing and Predictive Inference;Candes;2021
+Michael Benjamin Sklar;Advances in Contextual Multi-armed Bandits, Dynamic Treatment Strategies, and Type 1 Error Rate Guarantees in Confirmatory Adaptive Multi-arm Clinical Trials;Lai;Lavori (BDS), Lu (BDS), Palacios;Jingyi Kenneth Tay;Extending the Reach of the Lasso and Elastic Net Penalties: Methodology and Practice
+Tibshirani;Art Owen, Guenther Walther;2020;A Nonparametric Measure of Conditional Dependence;Chatterjee;Taylor, Bayati (GSB)
+2020;Stephen Bates;Candes;Tibshirani, Wager;2020;Claire Donnat
+Statistics and Uncertainty Quantification in Graphs and Networks with Biomedical Applications;Friedman, Leskovec (CS);2020;Rina Friedberg;Topics in Machine Learning for Causal Inference with Applications in Social Science;Athey (Econ)
+2020;Jelena Markovic;Statistical methods for adaptive data analysis;Taylor;Tibshirani, Romano;Evan Patterson
+The Algebra and Machine Representation of Statistical Models;Candes;Hastie, Chambers, Musen (Med/BDS);2020;Large-scale and High-dimensional Statistical Learning: Methods and Algorithms;Hastie
+Tibshirani, Rivas (BDS);2020;Evan Rosenman;Owen/Baiocchi;Palacios;2020
+Matteo Sesia;New Methods for Variable Importance Testing with Applications to Genetic Studies;Sabatti, Tibshirani;2020;Andy Tsao;Sampling Methods for Perfect Bipartite Matchings
+Diaconis;2020;Jun Yan;Asymptotic Theory for Large Random Matrices and its Applications;Dembo;Chatterjee, Montanari
+Rakesh Achanta;Boosting Like Path Algorithms for L1 Regularized Infinite Dimensional Convex Neural Networks;Hastie;Taylor, Tibshirani;2019;When do gradient methods work well in non-convex learning problems?
+Duchi;Montanari, Candes;2019;Nan Bi;Taylor;Tibshirani, Lai
+2019;Alex Chin;Modern Statistical Approaches for Randomized Experiments Under Interference;Walther, Palacios;2019;Wenfei Du
+Some hierarchical and group regularization methods and applications;Tibshirani;2019;Leying Guan;Classification and testing under robust model assumptions;Tibshirani/Wong
+Efron;Eugene Katsevich;Multiple Testing with Structure and Exploration;Sabatti;Candes, Montanari;
